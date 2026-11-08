@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{f1020ce6-14b1-46f5-8084-ebe932ef185e}">
+		<property name="assetPath">
+			<value>rat_4.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.2812698412698413</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce3dd1ec-5346-42dd-9431-71e4c2562da1}</destination>
+		</relationship>
+	</object>
+</objects>

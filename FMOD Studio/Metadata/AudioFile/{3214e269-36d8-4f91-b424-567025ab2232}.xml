@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{3214e269-36d8-4f91-b424-567025ab2232}">
+		<property name="assetPath">
+			<value>runstairs_1.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.20009070294784581</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce3dd1ec-5346-42dd-9431-71e4c2562da1}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{4784d967-cfdf-4769-81b2-ad07cb59b7a5}">
+		<property name="assetPath">
+			<value>landwood_2.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.56693877551020411</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce3dd1ec-5346-42dd-9431-71e4c2562da1}</destination>
+		</relationship>
+	</object>
+</objects>

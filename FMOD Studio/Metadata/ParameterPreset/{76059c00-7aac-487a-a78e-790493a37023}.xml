@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{76059c00-7aac-487a-a78e-790493a37023}">
+		<property name="name">
+			<value>surface_type</value>
+		</property>
+		<relationship name="folder">
+			<destination>{653e9e1d-a160-4418-a1cf-71f23052eef6}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{e2ccc6b2-38ae-4739-8fac-8b7d034bb4c7}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{e2ccc6b2-38ae-4739-8fac-8b7d034bb4c7}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>stone</value>
+			<value>wood</value>
+			<value>stairs</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
